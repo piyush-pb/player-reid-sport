@@ -1,0 +1,113 @@
+=== Player Tracking Summary ===
+
+Total frames processed: 375
+Total unique players tracked: 18
+
+Player 1:
+  - Track length: 31 frames (1.03s)
+  - Average position: (489.5, 507.0)
+  - First seen: frame [482, 498, 497, 516]
+  - Last seen: frame [482, 498, 497, 516]
+
+Player 2:
+  - Track length: 136 frames (4.53s)
+  - Average position: (711.0, 406.9)
+  - First seen: frame [651, 488, 666, 503]
+  - Last seen: frame [782, 339, 794, 351]
+
+Player 3:
+  - Track length: 31 frames (1.03s)
+  - Average position: (699.0, 380.0)
+  - First seen: frame [691, 374, 707, 386]
+  - Last seen: frame [691, 374, 707, 386]
+
+Player 4:
+  - Track length: 88 frames (2.93s)
+  - Average position: (787.1, 326.7)
+  - First seen: frame [789, 314, 801, 328]
+  - Last seen: frame [829, 350, 844, 363]
+
+Player 5:
+  - Track length: 34 frames (1.13s)
+  - Average position: (626.6, 310.0)
+  - First seen: frame [616, 304, 630, 317]
+  - Last seen: frame [618, 304, 636, 316]
+
+Player 6:
+  - Track length: 31 frames (1.03s)
+  - Average position: (584.0, 289.0)
+  - First seen: frame [579, 283, 589, 295]
+  - Last seen: frame [579, 283, 589, 295]
+
+Player 7:
+  - Track length: 32 frames (1.07s)
+  - Average position: (735.9, 321.4)
+  - First seen: frame [708, 311, 725, 323]
+  - Last seen: frame [727, 316, 746, 327]
+
+Player 8:
+  - Track length: 32 frames (1.07s)
+  - Average position: (790.5, 337.8)
+  - First seen: frame [765, 326, 782, 337]
+  - Last seen: frame [782, 332, 800, 344]
+
+Player 9:
+  - Track length: 31 frames (1.03s)
+  - Average position: (877.0, 300.0)
+  - First seen: frame [869, 294, 885, 306]
+  - Last seen: frame [869, 294, 885, 306]
+
+Player 10:
+  - Track length: 106 frames (3.53s)
+  - Average position: (765.9, 404.7)
+  - First seen: frame [895, 372, 911, 386]
+  - Last seen: frame [622, 388, 635, 403]
+
+Player 11:
+  - Track length: 31 frames (1.03s)
+  - Average position: (411.0, 225.5)
+  - First seen: frame [406, 220, 416, 231]
+  - Last seen: frame [406, 220, 416, 231]
+
+Player 12:
+  - Track length: 31 frames (1.03s)
+  - Average position: (725.5, 363.0)
+  - First seen: frame [717, 356, 734, 370]
+  - Last seen: frame [717, 356, 734, 370]
+
+Player 13:
+  - Track length: 31 frames (1.03s)
+  - Average position: (997.0, 110.5)
+  - First seen: frame [990, 102, 1004, 119]
+  - Last seen: frame [990, 102, 1004, 119]
+
+Player 14:
+  - Track length: 31 frames (1.03s)
+  - Average position: (422.5, 333.5)
+  - First seen: frame [414, 329, 431, 338]
+  - Last seen: frame [414, 329, 431, 338]
+
+Player 15:
+  - Track length: 31 frames (1.03s)
+  - Average position: (985.5, 331.5)
+  - First seen: frame [974, 323, 997, 340]
+  - Last seen: frame [974, 323, 997, 340]
+
+Player 16:
+  - Track length: 31 frames (1.03s)
+  - Average position: (1099.0, 320.5)
+  - First seen: frame [1086, 314, 1112, 327]
+  - Last seen: frame [1086, 314, 1112, 327]
+
+Player 17:
+  - Track length: 31 frames (1.03s)
+  - Average position: (1139.5, 322.0)
+  - First seen: frame [1130, 315, 1149, 329]
+  - Last seen: frame [1130, 315, 1149, 329]
+
+Player 18:
+  - Track length: 31 frames (1.03s)
+  - Average position: (1159.0, 317.0)
+  - First seen: frame [1149, 310, 1169, 324]
+  - Last seen: frame [1149, 310, 1169, 324]
+
