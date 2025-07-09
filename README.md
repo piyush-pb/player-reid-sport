@@ -38,6 +38,18 @@ player-reid-assignment/
 ├── requirements.txt        # Python dependencies
 └── README.md              # This file
 ```
+## ⚠️ Important: Model File Not Included
+
+> 📝 **Note:**  
+> This repository does **not** include the YOLOv11 model file (`yolov11.pt`) because of GitHub’s file size limits.  
+>  
+> Please download the YOLOv11 model manually from the following link and place it into the `models/` folder **before running the system**:  
+>  
+> 🔗 [Download YOLOv11 Model](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view)  
+>  
+> ✅ After placing `yolov11.pt` in `models/`, you can run the pipeline as described in the Usage section.  
+>  
+> 🚨 If the model file is missing, the program will **not work properly.**
 
 ## Installation
 
