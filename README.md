@@ -222,12 +222,6 @@ The system generates several output files:
 
 This project is developed for the Liat.ai AI Intern assignment.
 
-## Contact
-
-For questions or issues, please contact:
-- arshdeep@liat.ai
-- rishit@liat.ai
-
 ## Acknowledgments
 
 - Ultralytics for YOLOv11 implementation
